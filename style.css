@@ -1,0 +1,29 @@
+.container {
+    width: 500px;
+    height: 300px;
+    margin: 50px auto;
+    border: 2px solid black;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.inner-container {
+    width: 80%;
+    height: 80%;
+    margin: 20px auto;
+    border: 2px solid lightgray;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    color: orange;
+}
+
+h1, h2, p {
+    margin: 10px 0;
+}
+
+#pressed-key {
+    font-size: 24px;
+    font-weight: bold;
+    color: blue;
+}
